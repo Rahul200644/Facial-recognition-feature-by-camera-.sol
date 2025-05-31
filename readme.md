@@ -115,9 +115,5 @@ By leveraging blockchain technology, we envision a future where:
 - Regular security audits of the smart contract
 - Consider implementing rate limiting for authentication attempts
 - Ensure secure communication channels between cameras and blockchain
-
----
-
-**Built with ❤️ for a more secure and decentralized future**
 ####contract 0x9EC6dbCda9bAf8E20A5e2da0B584fCFC1c7Ea341
 ![Screenshot 2025-05-29 174026](https://github.com/user-attachments/assets/a0cbb0d2-5222-45a4-a0a4-a5949cd8400c)
